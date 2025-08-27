@@ -8,12 +8,6 @@ Many operating systems only have session-based application usage tracking rather
 - Provide a simple and pleasing interface to users that enables them add, remove, and track usage with ease.
 - Allow the simple exporting and visualization of collected data.
 ---
-
-# App Audit
-
-App Audit is a desktop application for tracking lifetime usage of applications that the user chooses to monitor.  
-It is designed to run entirely locally, ensuring privacy and control over your own data.
-
 ## Features
 - Track usage time of selected apps
 - Save data locally (no internet connection required)

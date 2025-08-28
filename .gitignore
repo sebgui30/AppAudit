@@ -1,0 +1,39 @@
+@'
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*egg-info/
+.eggs/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# App-specific files
+usage_data.pkl
+*.json
+
+# Jupyter
+.ipynb_checkpoints/
+'@ | Set-Content -NoNewline .gitignore
